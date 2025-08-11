@@ -1,6 +1,8 @@
 # Hand Gesture Recognition
 This repository contains a CNN-based hand gesture recognition system.  
-It classifies images into predefined gesture categories using deep learning.
+It classifies images into predefined gesture categories using deep learning.  
+Training data can be found in 'Hand_Gesture_Dataset_revised.rar'.  
+New data can be found in 'new.rar'.
 
 ## Features
 - **Image Preprocessing**: Resize, normalize, and augment gesture images.
